@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolasbetancurpavas
 - 👀 I’m interested in development web full stack
-- 🌱 I’m currently learning development fron-end
+- 🌱 I’m currently learning development front-end
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me betancur10nicolas@gmail.com...
 
