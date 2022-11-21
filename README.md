@@ -3,7 +3,7 @@
             alt="">
         <h3 align="center">hellow word</h2>
         <div align='center' >
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+        <img width='350px' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
             alt="">
         </div>
       
