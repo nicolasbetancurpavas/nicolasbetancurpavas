@@ -21,4 +21,5 @@
     <img width='45px' height='45px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fsql.png?alt=media&token=0b0e0af0-08fe-4387-be99-0546a4075f4b" alt="">
   <img width='45px' height='45px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Ffirebase.webp?alt=media&token=85b88541-958f-4e11-8b66-2cf026cb813b" alt="">
   <hr width="80%">
+  <h4 aling='center'>Never stop learning</h4>
   </div>
