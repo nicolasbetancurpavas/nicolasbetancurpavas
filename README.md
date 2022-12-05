@@ -22,6 +22,5 @@
    <img width='55px' height='55px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fphp.png?alt=media&token=eb2a9980-c8ed-4dc1-bf99-15d3d142daed" alt="">
    <img width='45px' height='45px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Ffirebase.webp?alt=media&token=85b88541-958f-4e11-8b66-2cf026cb813b" alt="">
     <img width='55px' height='55px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fsql-removebg-preview.png?alt=media&token=2fcb9759-2c2c-404d-b0ef-3fa1aa10d806" alt="">
-  <hr width="70%">
   <h4 aling='center'>Never stop learn</h4>
   </div>
