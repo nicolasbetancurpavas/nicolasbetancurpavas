@@ -1,5 +1,5 @@
   <div align='center'>
-        <h3 align="center">Hellow world</h3>
+        <h3 align="center">Hellow world 👋</h3>
   <p>My name is Nicolas Betancur I am Developer Frontend</p>
    <p>Passionate about technology and application development, I am currently focused on React</p>
         <div align='center' >
