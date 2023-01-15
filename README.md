@@ -6,7 +6,7 @@
         <img width='350px' src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
             alt="">
         </div>
-     <h3 align="center">Tools</h3>
+     <h3 align="center">Tools 🛠</h3>
     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fterminal-removebg-preview.png?alt=media&token=ab21614e-50d0-4f0d-8cf6-e24c0af45414" alt="">
      <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fgit.webp?alt=media&token=da67d149-5578-437b-8810-d61b43b77b33" alt="">
   <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Flogo-javascript-256.png?alt=media&token=2b6ae4a0-ffcf-476a-ad01-fbe3b4448bbe" alt="">
