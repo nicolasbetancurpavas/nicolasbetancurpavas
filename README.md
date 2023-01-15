@@ -24,6 +24,6 @@
    <img width='40x' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Ffirebase.webp?alt=media&token=85b88541-958f-4e11-8b66-2cf026cb813b" alt="">
     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fsql-removebg-preview.png?alt=media&token=2fcb9759-2c2c-404d-b0ef-3fa1aa10d806" alt="">
   <h4 aling='center'>Never stop learn 🚫</h4>
-  </div>
-  <br><br>
+    <br>
   <a href='https://portafolio-react-nicolas.netlify.app/'>VER PORTAFOLIO<a/>
+  </div>
