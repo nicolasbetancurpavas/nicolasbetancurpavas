@@ -16,8 +16,8 @@
     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Freact.webp?alt=media&token=e9275293-bbb3-4200-add8-25305de6a829" alt="">
   <br>
      <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fnode.webp?alt=media&token=2c1f1332-9677-4f4a-8272-3bd69485209e" alt="">
-        <img width='60px' height='50px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fmongodb.png?alt=media&token=16fa3bd5-9c39-4489-a7b0-664f3ecc56eb" alt="">
   <img width='45px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/tegnologies%2Fexpressjslogo.webp?alt=media&token=c46f3c77-2478-4902-aec2-2f75c61905a7" alt="">
+        <img width='60px' height='50px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fmongodb.png?alt=media&token=16fa3bd5-9c39-4489-a7b0-664f3ecc56eb" alt="">
    <img width='37px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fpython.webp?alt=media&token=d2dd7592-e5b9-4a5b-aab3-0bcc4a1272ac" alt="">
   <img width='37px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fdjango.png?alt=media&token=3bac5a6d-c6e0-4c21-99eb-0cf19976fb1a" alt="">
    <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fphp.png?alt=media&token=eb2a9980-c8ed-4dc1-bf99-15d3d142daed" alt="">
