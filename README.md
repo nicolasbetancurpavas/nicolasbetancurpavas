@@ -25,5 +25,5 @@
     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fsql-removebg-preview.png?alt=media&token=2fcb9759-2c2c-404d-b0ef-3fa1aa10d806" alt="">
   <h4 aling='center'>Never stop learn 🚫</h4>
     <br>
-  <a href='https://portafolio-react-nicolas.netlify.app/'>VER PORTAFOLIO<a/>
+  <a href='https://nicolasbetancur-portafolio.netlify.app/'>VER PORTAFOLIO<a/>
   </div>
