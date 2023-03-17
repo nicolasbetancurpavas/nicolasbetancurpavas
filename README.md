@@ -1,6 +1,6 @@
   <div align='center'>
         <h3 align="center">Hellow world 👋</h3>
-  <p>My name is Nicolas Betancur I am Developer Fullstack</p>
+  <p>My name is Nicolas Betancur I am Developer software</p>
    <p>Passionate about technology and application development, I am currently focused on React</p>
         <div align='center' >
         <img width='350px' src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
