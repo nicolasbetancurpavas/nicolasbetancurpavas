@@ -2,10 +2,7 @@
  <h2> Hola 👋  <br> mi nombre es Nicolas Betancur</h2>
   <p>Soy Técnico en desarrollo de software 🎓, apasionado por el desarrollo de aplicaciones</p>
  <p>Desarrollo aplicaciones fullstack especialmente con React y Nodejs</p>
-        <img width='220px' src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
-            alt="">
-        </div>
-        
+       
 ## 🪐 Frontend
 <p>Desde el prototipo hasta el desarrollo del fronted , 
  diseñando prototipos basándome en UX Y UI, validando formularios y consumiendo recursos de apps externas</p>
