@@ -1,29 +1,29 @@
-  <div align='center'>
-        <h3 align="center">Hellow world 👋</h3>
-  <p>My name is Nicolas Betancur I am Developer software</p>
-   <p>Passionate about technology and application development, I am currently focused on React</p>
-        <div align='center' >
-        <img width='350px' src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
+ <div >
+        <img width='300px' src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
             alt="">
         </div>
-     <h3 align="center">Tools 🛠</h3>
-    <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fterminal-removebg-preview.png?alt=media&token=ab21614e-50d0-4f0d-8cf6-e24c0af45414" alt="">
-     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fgit.webp?alt=media&token=da67d149-5578-437b-8810-d61b43b77b33" alt="">
-  <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Flogo-javascript-256.png?alt=media&token=2b6ae4a0-ffcf-476a-ad01-fbe3b4448bbe" alt="">
-    <img width='37px' height='37px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fcss3.webp?alt=media&token=5cca6afe-f014-4b14-bbc5-8b43266990a0" alt="">
-   <img width='37px' height='37px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fbootstrapwebp.webp?alt=media&token=83f5390b-ff6f-4990-be6e-47870564092e" alt="">
-    <img width='37px' height='37px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fjs-logo.png?alt=media&token=2d9dc99e-7a75-4651-b8e0-6d5bbddaeef4" alt="">
-    <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Freact.webp?alt=media&token=e9275293-bbb3-4200-add8-25305de6a829" alt="">
-  <br>
-     <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fnode.webp?alt=media&token=2c1f1332-9677-4f4a-8272-3bd69485209e" alt="">
-  <img width='45px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/tegnologies%2Fexpressjslogo.webp?alt=media&token=c46f3c77-2478-4902-aec2-2f75c61905a7" alt="">
-        <img width='60px' height='50px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fmongodb.png?alt=media&token=16fa3bd5-9c39-4489-a7b0-664f3ecc56eb" alt="">
-   <img width='37px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fpython.webp?alt=media&token=d2dd7592-e5b9-4a5b-aab3-0bcc4a1272ac" alt="">
-  <img width='37px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fdjango.png?alt=media&token=3bac5a6d-c6e0-4c21-99eb-0cf19976fb1a" alt="">
-   <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fphp.png?alt=media&token=eb2a9980-c8ed-4dc1-bf99-15d3d142daed" alt="">
-   <img width='40x' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Ffirebase.webp?alt=media&token=85b88541-958f-4e11-8b66-2cf026cb813b" alt="">
-    <img width='40px' height='40px' src="https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/github%2Fsql-removebg-preview.png?alt=media&token=2fcb9759-2c2c-404d-b0ef-3fa1aa10d806" alt="">
-  <h4 aling='center'>Never stop learn 🚫</h4>
-    <br>
-  <a href='https://nicolasbetancur-portafolio.netlify.app/'>VER PORTAFOLIO<a/>
-  </div>
+        
+## Frontend 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+## Backend 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Despliegue
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Diseño
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
