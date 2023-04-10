@@ -1,5 +1,7 @@
 <h2>Hola 👋<br> mi nombre es Nicolas Betancur</h2>
-<p>Soy Técnico en desarrollo de software 🎓, apasionado por el desarrollo de aplicaciones <br> Desarrollo aplicaciones fullstack especialmente con React y Nodejs</p>
+<p>Como Técnico en Desarrollo de Software, tengo una gran pasión por el desarrollo de aplicaciones. Me especializo en el desarrollo fullstack utilizando tecnologías como React y Nodejs. He tenido la oportunidad de participar en varios proyectos, tanto personales como colaborativos, lo que me ha permitido adquirir una amplia experiencia en la resolución de problemas de desarrollo de software.</p>
+
+<p>Actualmente estoy en busca de nuevos desafíos que me permitan seguir creciendo y mejorando mis habilidades en este campo. Como desarrollador, me considero comprometido, trabajador y siempre dispuesto a aprender cosas nuevas.</p>
 
 ### Frontend 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
