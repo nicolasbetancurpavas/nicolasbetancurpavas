@@ -1,4 +1,4 @@
-<img src='https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/logo.png?alt=media&token=50bb9808-baed-48bc-9ad7-b0d7f5556f14'>
+<img src='https://firebasestorage.googleapis.com/v0/b/imagenes-1ccc1.appspot.com/o/logo.png?alt=media&token=8f638c44-998e-4b90-96a7-a967a7051b44'>
 <p>Como Técnico en Desarrollo de Software, tengo una gran pasión por el desarrollo de aplicaciones. Me especializo en el desarrollo fullstack utilizando tecnologías como React y Nodejs. He tenido la  oportunidad de participar en varios proyectos, tanto personales como colaborativos, lo que me ha permitido adquirir una amplia experiencia en la resolución de problemas de desarrollo de software. Actualmente, me encuentro en la etapa de aprendizaje de prompt engineering y su integración en mis proyectos con ChatGPT</p>
 
 ### Frontend 
